@@ -9,3 +9,5 @@ Para ejecutar el sistema, debes poner:
 Sistema de regisstro 2
 
 :construction: Proyecto en construcción :construction:
+
+:waxing_crescent_moon: Probando diferentes emojis :new_moon: :first_quarter_moon:
